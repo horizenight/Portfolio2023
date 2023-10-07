@@ -62,10 +62,13 @@ export {
   jobit,
   tripguide,
   nimbus,
+
 };
 
 
 export const ncbsLogo = "https://www.ncbs.res.in/sites/default/files/NCBS-logo.png"
-export const pharmScrollLogo = "https://pharmascroll.com/wp-content/uploads/2023/03/pharmascroll.jpg"
-export const asiaTechLogo = "https://th.bing.com/th?id=AMMS_S_0f8d4c1c-38a7-88e5-bdae-89f3b6ba513a&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&o=6&cdv=1&pid=16.1"
+export const pharmScrollLogo = "https://media.licdn.com/dms/image/D4D0BAQHWWiV_8cyGOw/company-logo_200_200/0/1683892299673?e=1704931200&v=beta&t=KfIn80PXPO7z3CN-RxJdaHhDkIHZREBp9Jq2H6olwS0"
+export const asiaTechLogo = "https://media.licdn.com/dms/image/C4D0BAQEUaU1Bt4LQwA/company-logo_200_200/0/1650823098844?e=1704931200&v=beta&t=m2GmmaJkrCAPZLP57E0W-sCoB9jij9wL_P2xT0qsqRw"
 export const dwDLogo = "https://mainstack.me/_next/image?url=https%3A%2F%2Fmedia.mainstack.me%2Fimages%2F1672783083962.webp&w=1920&q=75"
+export const DPS = "https://media.licdn.com/dms/image/C4D0BAQFfVj8pfxtq3g/company-logo_100_100/0/1611070994655?e=1704931200&v=beta&t=6-sXFVXVPiF0n4vB_ETYbV7lRG0aQJ46kRCBr-J7eiI"
+export const HyperLedger = "https://media.licdn.com/dms/image/D560BAQH5Em7J2Jsaig/company-logo_100_100/0/1690943279876?e=1704931200&v=beta&t=Yi3HJPWPCN00AomMgAx-tR8MIE_s39R2CCx6VnxAXTw"

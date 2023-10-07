@@ -27,7 +27,9 @@ import {
     asiaTechLogo,
     pharmScrollLogo,
     dwDLogo,
-    nimbus
+    nimbus,
+    DPS,
+    HyperLedger
   } from "../assets";
   
   export const navLinks = [
@@ -169,12 +171,37 @@ import {
       company_name: "DesignWithDesigners",
       icon: dwDLogo,
       iconBg: "black",
-      date: "Feb 2023 - Present",
+      date: "Feb 2023 - April 2023",
       points: [
         "Participated in a comprehensive learning experience for beginners",
         "Received mentorship and feedback from experienced designers",
         "Collaborated with other mentees and developed communication and teamwork abilities",
         
+      ],
+    },
+    {
+      title: "Software Engineer",
+      company_name: "Digital Product School",
+      icon: DPS,
+      iconBg: "black",
+      date: "May 2023 - July2023",
+      points: [
+       
+        "Created Histourists an immersive web app that unveiled Munich’s rich history and boosted historical engagement by an impressive 60% .",
+        "Utilized Agile methodologies to drive MVP development in just 3 months, addressing real-world challenges and user testing with 10  nline and offline users.",
+        "Collaborated seamlessly with a cross-functional team of 5 members, Integrating React, AWS, LLM Model and PostgreSQL to craft innovative, human-centric solutions."
+        
+      ],
+    },
+    {
+      title: "Open Source Contributor/Mentee",
+      company_name: "HyperLedger Foundation",
+      icon: dwDLogo,
+      iconBg: "black",
+      date: "June 2023 - Nov 2023",
+      points: [
+        "Architected the upgrade of Iroha 2 Blockchain Explorer,leveraging Rust to seamlessly incorporate the latest Iroha version; meticulously reviewed and merged 4 PRs to fortify system reliability and performance",
+        "Functioned effectivly within a diverse international team of 24+ members, alongside 2 mentors"
       ],
     },
   ];
